@@ -3,7 +3,7 @@
 
 ![Mail](mail.png "Google")
 
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" width="90%"/>
+<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" width="30%"/>
 
 #
 ## 要怎麼用
