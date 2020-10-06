@@ -1,7 +1,7 @@
 # 2020_1006
 
 ![](mail.png "Google")
-![]<img src=width="50%"/>
+<img (mail.png) width="50%"/>
 
 <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" width="30%"/>
 
